@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3e0063/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0063/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 扁鵲神應鍼灸玉龍經
+  date: '2015-08-24 23:06:23.464354'
+  source:
+    repository: kanripo
+    path: KR3e0063
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0063_000-WYG.yaml, hash: 'sha256:f5b718bd2e75b57a6a7f9623e57a685238ed5af80d38aa5e8b067109a2e8f28d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0063_000-WYG.markers.yaml, hash: 'sha256:d28923dd7572326681b755bfe5381616a534b858a33180c948a833d6a741e88e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0063_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 240
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0063_WYG_000-3a
+    span:
+    - body
+    - 240
+    - 19657
+  label: 扁鵲神應鍼灸玉龍歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0063_WYG_000-87a
+    span:
+    - body
+    - 19657
+    - 19836
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:fc8dcd3c9720429062151087304fa55b432c931bad846d1f983a45a864b714dc
