@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3e0063/v1
 canonical_location: https://kanripo.org/bkk/KR3e0063/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 扁鵲神應鍼灸玉龍經
   date: '2015-08-24 23:06:23.464354'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3e0063_000.yaml, hash: 'sha256:f04907af2f56c7fbf9b5f92a50df5fc2405f1170fab61d263fe0ea75c1a51176'}
+  - {seq: 0, filename: KR3e0063_000.yaml, hash: 'sha256:93f951980cea033702da31e39cb2914986bc0cc4b8db5c1dd8b25026d197f905'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0063_000.markers.yaml, hash: 'sha256:d673c4acbd153fc2e0f01a0829421dff864fa47eede41403b136457b8eda86f3'}
+  - {seq: 0, role: markers, filename: assets/KR3e0063_000.markers.yaml, hash: 'sha256:50f2d1cfa6f7baaf26452a45080e4bc43c7a2eab1e3430e393857697d003697b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,4 +54,7 @@ table_of_contents:
   label: 後序
   type: section
   level: 1
-hash: sha256:3ce982a0f3e1ecabcc01b2430f368ebd44ac6170b64d44c60eec52e1f06a5db9
+hash: sha256:4fb16a9f937899e6bff78ba8afcb1b7a17542ba00e0fc651e83fc99f5e27ddf4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
